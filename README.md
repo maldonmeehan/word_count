@@ -22,7 +22,7 @@ _Week One Final Project: This is an Epicodus student project to create a webpage
 
 ## Known Bugs
 
-* _Currently no none bugs_
+* _Currently finds all instances of a word in a sting: Example word: "pick" string: "If Peter Piper picked a peck of pickled peppers, where's the peck of pickled peppers Peter Piper picked?" will find four rather than none_
 
 ## Support and contact details
 
