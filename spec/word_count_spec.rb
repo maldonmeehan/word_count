@@ -10,7 +10,7 @@ describe('String#word_count') do
     expect(("the").word_count("The quick brown fox jumped over the lazy sleeping dog.")).to(eq(2))
   end
 
-  it("counts how many time a word appears in a string when the user enters a sentence") do
+  it("counts how many times the exact word appears in a string when the user enters word and a sentence") do
     expect(("pick").word_count("If Peter Piper picked a peck of pickled peppers, where's the peck of pickled peppers Peter Piper picked?")).to(eq(0))
   end
 end

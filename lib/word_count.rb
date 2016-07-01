@@ -1,5 +1,6 @@
 class String
   define_method(:word_count) do |sentence|
+    sentence_counter = []
     input_word = self
     input_sentence = sentence
     input_word.downcase!()
