@@ -17,7 +17,7 @@ _Week One Final Project: This is an Epicodus student project to create a webpage
 ## Setup/Installation Requirements
 
 * _Open a web browser_
-* _Visit <a href="#">Website address</a>_
+* _Visit <a href="https://word-count-mm.herokuapp.com/">App on Heroku</a>_
 * _Enter a number and enjoy!_
 
 ## Known Bugs
