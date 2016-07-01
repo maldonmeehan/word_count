@@ -11,7 +11,6 @@ _Week One Final Project: This is an Epicodus student project to create a webpage
 ## Specifications
 | Behaviors        | Inout          | Output  |
 | ------------- |:-------------:| -----:|
-| takes an inputed letter and inputed string and counts how many times the inputed letter appears in the inputed sting. | letter: "a" String: "abc" | "1"|
 | takes an inputed word and inputed string and counts how many times the inputed word appears in the inputed sting. | word: "hello" String: "hello world" | "1"|
 
 
