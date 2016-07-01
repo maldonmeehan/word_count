@@ -8,6 +8,8 @@ get('/') do
 end
 
 get('/results') do
+  @input_word = params.fetch('input_word')
+  @input_sentence = params.fetch('input_sentence')
   @results = @input_word.word_count(@input_sentence)
   erb(:results)
 end
