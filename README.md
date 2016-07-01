@@ -12,7 +12,7 @@ _Week One Final Project: This is an Epicodus student project to create a webpage
 | Behaviors        | Inout          | Output  |
 | ------------- |:-------------:| -----:|
 | takes an inputed word and string and converts it to all caps | word: "Cat" String: "The cat is fat" | "CAT" "THE CAT IS FAT"|
-| allows a user to enter a word and a string and checks the number of times the inputed word appears. | word: "peck" String: "The cat is fat""If Peter Piper picked a peck of pickled peppers, where's the peck of pickled peppers Peter Piper picked?" | 2 |
+| allows a user to enter a word and a string and checks the number of times the inputed word appears. | word: "peck" String: "If Peter Piper picked a peck of pickled peppers, where's the peck of pickled peppers Peter Piper picked?" | 2 |
 
 ## Setup/Installation Requirements
 
